@@ -10,10 +10,15 @@ If the above command doesn't work: (ghcup official docs)[https://www.haskell.org
 
 ## Cabal-install package
 
-If you're on linux you can use your system package manager:
-`sudo apt install cabal-install`
-`sudo dnf install cabal-install`
-`sudo pacman -S cabal-install`(not recommended)
+If you're on linux you can use your system package manager by using one of the below commands:
+```
+sudo apt install cabal-install
+
+sudo dnf install cabal-install
+
+sudo pacman -S cabal-install (not recommended)
+
+```
 
 
 
